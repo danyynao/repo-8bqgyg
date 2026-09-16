@@ -1,8 +1,10 @@
 2026/09/16 14:30:03
 
-<!-- notify 1/2 · 3OZDZCSy -->
-## Notification 1/2
-Round: Round 1
-To: enally@sccadv.com, victoralonzo@bellsouth.net
-At: 2026-09-16 14:30:11
-Id: 3OZDZCSy
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: mstoeckert@me.com, titilopef@hotmail.com
+At: 2026-09-16 14:30:19
+Id: Zk1QyOqO
